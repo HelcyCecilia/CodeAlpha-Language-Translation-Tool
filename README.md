@@ -35,4 +35,5 @@ deep-translator>=1.11.4
 
 ## Author
 Helcy Cecilia
+
 CodeAlpha AI Internship Project
