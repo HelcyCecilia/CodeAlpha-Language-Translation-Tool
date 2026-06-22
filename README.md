@@ -33,9 +33,6 @@ python translation.py
 ## Requirements
 deep-translator>=1.11.4
 
-## Screenshot
-![App Screenshot](Screenshot 2026-06-22 213627.png)
-
 ## Author
-Helcy Cecilia  
+Helcy Cecilia S
 CodeAlpha AI Internship Project
