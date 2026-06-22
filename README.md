@@ -1,39 +1,41 @@
 # CodeAlpha Language Translation Tool
 
 ## Description
-
-A language translation application developed as part of the CodeAlpha AI Internship. The tool translates text from one language to another using Google Translator.
+The CodeAlpha Language Translation Tool is an AI-based desktop application developed as part of the CodeAlpha AI Internship.  
+It allows users to translate text from one language to another using Google Translator through a simple and user-friendly graphical interface built with Tkinter.
 
 ## Features
-
-* Translate text between multiple languages
-* Simple and user-friendly GUI
-* Automatic language detection
-* Fast and accurate translations
-* Built using Python
+- Translate text between multiple languages  
+- Automatic language detection  
+- Simple and clean GUI using Tkinter  
+- Fast and accurate translation  
+- Easy-to-use input and output system  
 
 ## Technologies Used
+- Python  
+- Tkinter (GUI)  
+- deep-translator (Google Translator API wrapper)  
 
-* Python
-* Tkinter
-* deep-translator
+## Installation
+
+### 1. Clone the repository
+git clone https://github.com/HelcyCecilia/CodeAlpha-Language-Translation-Tool.git
+
+### 2. Navigate to project folder
+cd CodeAlpha-Language-Translation-Tool
+
+### 3. Install dependencies
+pip install -r requirements.txt
 
 ## How to Run
+python translation.py
 
-1. Install Python
+## Requirements
+deep-translator>=1.11.4
 
-2. Install the required package:
-
-   pip install deep-translator
-
-3. Run the application:
-
-   python translation.py
-
-## Project Output
-
-The user enters text, selects a target language, and receives the translated text instantly.
+## Screenshot
+![App Screenshot](Screenshot 2026-06-22 213627.png)
 
 ## Author
-
-Helcy Cecilia
+Helcy Cecilia  
+CodeAlpha AI Internship Project
