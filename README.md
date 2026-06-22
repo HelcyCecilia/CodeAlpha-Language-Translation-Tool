@@ -34,6 +34,6 @@ python translation.py
 deep-translator>=1.11.4
 
 ## Author
-Helcy Cecilia
+Helcy Cecilia S
 
 CodeAlpha AI Internship Project
